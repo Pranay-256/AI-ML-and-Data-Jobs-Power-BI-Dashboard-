@@ -199,13 +199,13 @@ COALESCE(
 ![Dashboard Image 1](Images/image%201.png)
 
 ## Location Insights
-![Dashboard Image 2](Images/image%201.png)
+![Dashboard Image 2](Images/image%202.png)
 
 ## Company & Role Insights
-![Dashboard Image 3](Images/image%201.png)
+![Dashboard Image 3](Images/image%203.png)
 
 ## Skill & Hiring Insights
-![Dashboard Image 4](Images/image%201.png)
+![Dashboard Image 4](Images/image%204.png)
 
 ---
 
