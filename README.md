@@ -196,16 +196,16 @@ COALESCE(
 # 📷 Dashboard Preview
 
 ## AI, ML & Data Jobs Overview
-(![Dashboard Image 1](Images/image%201.png))
+![Dashboard Image 1](Images/image%201.png)
 
 ## Location Insights
-(Add Screenshot Here)
+![Dashboard Image 2](Images/image%201.png)
 
 ## Company & Role Insights
-(Add Screenshot Here)
+![Dashboard Image 3](Images/image%201.png)
 
 ## Skill & Hiring Insights
-(Add Screenshot Here)
+![Dashboard Image 4](Images/image%201.png)
 
 ---
 
