@@ -196,7 +196,7 @@ COALESCE(
 # 📷 Dashboard Preview
 
 ## AI, ML & Data Jobs Overview
-(Add Screenshot Here)
+(![Dashboard Image 1](Images/image%201.png))
 
 ## Location Insights
 (Add Screenshot Here)
