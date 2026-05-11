@@ -1,4 +1,4 @@
-# 🚀 AI, ML & Data Jobs Dashboard
+# 🚀 AI, ML & Data Jobs Power BI Dashboard
 
 An end-to-end **Power BI Dashboard Project** focused on analyzing AI, Machine Learning, and Data-related job trends across different countries, companies, experience levels, industries, and work modes.
 
